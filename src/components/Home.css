@@ -1,0 +1,17 @@
+.masthead {
+  height: 91vh;
+
+  min-height: 500px;
+  background-image:url('shop1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  color: #000;
+  font-weight: bold;
+  background-color: #fff;
+  border:1px solid #000000;
+ 
+}

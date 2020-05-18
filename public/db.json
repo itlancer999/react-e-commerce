@@ -1,0 +1,53 @@
+{
+	"products":[
+		{
+			"id": 1,
+			"sku": 11,
+			"title":"comfy shoes",
+			"price": 10,
+			"code":123,
+			"description": "red 37 comfy"
+			
+		},
+		{
+			"id": 2,
+			"sku": 22,
+			"title":"comfy shoes",
+			"price": 10,
+			"code":124,
+			"description": "blue 33 comfy"
+		},
+		{
+			"id": 3,
+			"sku": 33,
+			"title":"comfy shoes",
+			"price": 40,
+			"code":125,
+			"description": "black 38 comfy"
+		},
+		{
+			"id": 4,
+			"sku": 44,
+			"title":"heel shoes",
+			"price": 900,
+			"code":126,
+			"description": "white 37 heel"
+		},
+		{
+			"id": 5,
+			"sku": 55,
+			"title":"heel shoes",
+			"price": 300,
+			"code":127,
+			"description": "blue 36 heel"
+		},
+		{
+			"id": 6,
+			"sku": 66,
+			"title":"comfy shoes",
+			"price": 120,
+			"code":128,
+			"description": "green 38 comfy"
+		}
+	]
+}
