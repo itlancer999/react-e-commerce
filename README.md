@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot](https://github.com//itlancer999/react-e-commerce/blobs/components/React_App.jpg?raw=true)
-
 
 ## Available Scripts
 
